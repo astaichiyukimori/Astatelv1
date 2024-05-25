@@ -1,14 +1,14 @@
 {
     "tg": [
-        "get_the_bot_token_from_tg_botfather"
+        "6516310442:AAHreCq_lorniKSVLp7g84dvnYPDCAJ27aw"
     ],
-    "prefix": "-",
+    "prefix": ".",
     "webhookURL": "your_webhookURL", 
-    "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
+    "supportGroupText": "Thanks for using Asta bot! Type .help to see all available commands.\nJoin the support box to know how to use this types of bots: https://t.me/+_OG2w1jCaD8yNTc8",
     "prefixText": "🌐 System prefix:",
-    "botName": "annie",
+    "botName": "Asta_bot",
     "adminUids": [
-     "6371757771"
+     "7057407504"
     ],
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
 }
